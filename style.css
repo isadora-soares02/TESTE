@@ -1,0 +1,132 @@
+main{
+    display: flex;
+    flex-direction: row;
+    font-family:  "Lato", sans-serif;;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    width: 495px;
+    height: 467px;
+    margin-top: 93px;
+    margin-left: 120px;
+    padding-right: 45px;
+    
+}
+
+.img1{
+    width: 148.9px;
+height: 148px;
+top: 454px;
+left: 466.1px;
+padding: 0px 0.9px 0px 0px;
+}
+
+.linhaimg{
+    width: 495px;
+    height: 148px;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 91px;
+}
+
+nav{
+
+display: flex;
+flex-direction: row;
+    width: 654px;
+height: 825px;
+margin-top: 42px;
+left: 660px;
+
+}
+
+.bot{
+    
+    color: white;
+    width: 110px;
+    height: 18px;
+
+    
+
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 18px;
+    
+
+    
+    
+}
+
+.bot1{
+    width: 222px;
+height: 66px;
+
+border-radius: 40px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+background-color:  #333333;
+;
+
+margin-left: 136px;
+margin-top: 35px;
+
+}
+
+.sla1{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.sla{
+    display: flex;
+    flex-direction: column;
+ margin-top: 81px;
+padding-left: 42px;
+
+}
+
+.ant{
+    padding-top: 42px;
+}
+
+.ult{
+    padding-top: 42px;
+}
+
+.caixa{
+    width: 487px;
+height: 60px;
+top: 67px;
+left: 4px;
+
+color: #333333;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: justify;
+
+}
+
+.tit{
+    width: 495px;
+height: 43px;
+gap: 0px;
+opacity: 0px;
+
+font-size: 36px;
+font-weight: 600;
+line-height: 43.2px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #333333;
+;
+}
